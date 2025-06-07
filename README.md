@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python, AI, ML**
 
-- 📫 How to reach me **lakshyakumar336@gmail.com**
+- 📫 Reach me @**lakshyakumar336@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17jsLQLi8aV073DS3tGsir7UxfmrTZnX5/view?usp=sharing](https://drive.google.com/file/d/17jsLQLi8aV073DS3tGsir7UxfmrTZnX5/view?usp=sharing)
 
-- ⚡ Fun fact **I love to play games**
+- ⚡ Fun fact **I love to play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
