@@ -20,6 +20,12 @@
 <p align="left">
 <a href="https://www.codechef.com/users/bemyfreind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/bemyfreind" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/RSG_PHOENIx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rsg_phoenix/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rsgpx01/?_gl=1*156fdg7*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw953DBhCyARIsANhIZoYnGGt9vnXhSiRb4NrTUgF4_G1AIWp9FQ0MZh2O0mPKdZiDzKoWfyUaAoVaEALw_wcB&gbraid=0AAAAAC9yBkDKs9ijKetoYT7mW7cKqraxA" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="gfg" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/RSG.PhoeniX" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
