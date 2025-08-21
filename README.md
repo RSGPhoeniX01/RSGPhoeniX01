@@ -7,7 +7,7 @@
 
 - 📫 Reach me @**lakshyakumar336@gmail.com**
 
-- 📄 Know about my experiences – [Resume](https://drive.google.com/drive/folders/1vc4_FCASS6WbhaS9LxTlDhPvlWZhSgww?usp=sharing)
+- 📄 Know about my experiences – [Resume](https://drive.google.com/drive/folders/17JtPRL5R0eLYgfqaeRD_coS42L9zm6Lo?usp=sharing)
 
 
 - ⚡ Fun fact **I love to play chess**
