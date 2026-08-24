@@ -7,9 +7,9 @@
 
 - 📫 Reach me @**lakshyakr012@gmail.com**
 
-- 📄 Know about my experiences – [Resume](https://drive.google.com/drive/folders/17JtPRL5R0eLYgfqaeRD_coS42L9zm6Lo?usp=sharing)
+- 📄 Know about my experiences – [Resume](https://lakshyakr.vercel.app/)
 
-- ⚡ wanna play **chess** 
+- ⚡ Lets play **chess** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
     <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/RSG_PHOENIx/" target="_blank">
+  <a href="https://leetcode.com/u/Lakshya_Kr/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
